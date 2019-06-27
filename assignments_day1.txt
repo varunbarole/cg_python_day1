@@ -1,0 +1,169 @@
+write a program to capture any filename(with extension) from the keyboard and display the filename
+
+Enter any filename :  customers.csv
+file that you entered is : customers.csv
+
+----------------------------------------------------------------------------
+write a program to capture any filename(with extension) from keyboad and display the filename and extension seperately
+
+Enter any filename :  customers.csv
+Output :
+filename : customers
+extension: csv
+----------------------------------------------------------------------------
+write a program to capure 2 numbers from the keyboard and display its number
+Enter first number : 10
+Enter second number: 20
+sum of the numbers : 30
+
+----------------------------------------------------------------------------
+write a program to perform the below operations
+define string as below
+
+name = "python programming"
+- replace 'python' to 'scala' and display the string
+- display the string in upper case
+- split the string and display the output
+- display the length of the string
+- reverse the string
+- display the no. of occurences of p in the string  ( output would be 2 )
+----------------------------------------------------------------------------
+write a program to perform the below operations
+display tuple as below
+atup = ('unix','oracle')
+-append hadoop to the list
+-append scala to the list
+-add ruby, python , matlab to thelist
+- append mongodb to the list
+- display the no. of the elements inside the list
+- count the no. of occurences of 'unix' in the list
+- remove oracle
+-remove python
+- display the no. of the elements inside the list
+----------------------------------------------------------------------------
+write a program to remove all the duplicates from the list
+
+alist = [10,20,20,30,40,40,10,50,60]
+----------------------------------------------------------------------------
+write a program to capture filename(with extension) from the keyboard and replace its extension as below
+
+Enter any filename 	     : abc.doc
+After changing the extension : abc.docx
+----------------------------------------------------------------------------
+write a program to capture 2 strings from the keyboard and concatenate the strings.
+Enter first  string : python
+Enter second string : programming
+Output : python programming  
+
+
+-------------------------------------------------------------------
+
+write a program to capture any string from keyboard and display the 
+
+if the string is defined in uppercase : 'string is upper' 
+if the string is defined in lowercase : 'string is lower'  
+
+
+-----------------------------------------------------------------
+write a program to check the file extension.
+
+if the file is ending with '.py' then display 'Its python file'
+if the file is ending with '.sh' then display 'Its bash shell file'
+if the file is ending with '.pl' then display 'Its perl file'
+
+-----------------------------------------------------------------------
+write a program to validate IP address
+Enter any IP  : 127.0.0.1
+Status        : valid IP
+Enter any IP  : 34.900.900.1
+Status        : Invalid IP
+
+--------------------------------------------------------------------
+
+Write a program to check the validity of password input by user.
+Following are the criteria for checking the password:
+
+1. At least 1 character from [$#@]
+2. Minimum length of transaction password: 6
+3. Maximum length of transaction password: 12
+
+
+display "Valid password" if all the conditions are 
+satisfied or "Invalid password"
+------------------------
+write a program to display all the numbers from 50 to 1 using
+- for loop
+- while loop
+------------------------
+
+write a program to display all the even numbers from 90 to 80 
+- for loop
+- while loop
+
+------------------------
+define the list as below
+alist = ['google','linkedin','facebook']
+
+write a program to prefix 'http://' and postfix '.com' to all the elements of the list
+
+Output:
+http://google.com
+http://liknedin.com
+http://facebook.com
+-----------------------------------------------------------------------
+define the list as below
+
+alist = ['google','http://linkedin','facebook']
+
+write a program to check and prefix 'http://' if the element is not starting with 'http://'  and postfix '.com' to all the elements of the list
+
+http://google.com
+http://liknedin.com
+http://facebook.com
+
+-----------------------------------------------------------------------
+write a program to display the below output
+
+1.py
+2.py
+3.py
+4.py
+5.py
+6.py
+7.py
+8.py
+9.py
+10.py
+----------------------------------------------------------------------------
+write a program to display the series of IP addresses in the below format.
+192.168.0.1
+192.168.0.2
+192.168.0.3
+...
+...
+192.168.0.100
+------------------------------------------------------------------------
+write a program to display the series of IP addresses in the below format.
+
+192.168.0.1
+192.168.0.2
+192.168.0.3
+...
+...
+192.168.0.100
+
+
+--------------------------------------------------------------------------
+write a program to display the IPs in the below format.
+172.168.0.1
+172.168.0.2
+172.168.0.3
+...
+...
+172.168.0.10
+172.168.1.1
+172.168.1.2
+172.168.1.3
+...
+...
+172.168.1.10
